@@ -1,6 +1,13 @@
 # hack4lx_Finder_locations
-
-
+**********************************************************
+How To install 
+Kali Linux ::::
+1) sudo apt-get update
+2) sudo apt install git python php openssh -y
+3) git clone https://github.com/attakercyebr/hack4lx_Finder_locations.git
+4) cd hack4lx_Finder_locations
+5) python3 loc.py
+**********************************************************
 🦠 YouTube👣:: (http://b2n.ir/934271)
 **********************************************************
 
